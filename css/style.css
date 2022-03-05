@@ -1,0 +1,84 @@
+body{
+    background-color:hsl(218, 23%, 16%);
+  color: hsl(193, 38%, 86%);
+  text-align: center;
+  font-family: 'Manrope', sans-serif;
+
+}
+
+
+.circle{
+    position:absolute;
+    background-color: hsl(150, 100%, 66%);
+    display: flex;
+    width: 20px;
+    height: 20px;
+    padding: 10px 10px;
+    border-radius: 100%;
+    margin-left: auto;
+    margin-right: auto;
+    left: 0;
+    right: 0;
+}
+.stack-top{
+    z-index: 1;
+    top: 300px;
+}
+.card{
+    position: absolute;
+    background-color: hsl(217, 19%, 24%);
+    border-radius: 5px;
+    padding: 10px;
+    justify-content: center;
+    height: 100%;
+    width: 100%;
+    box-shadow: hsl(218, 23%, 16%);
+}
+
+.container{
+    position: relative;
+    margin: 100px auto;
+    width: 500px;
+    height: 300px;
+}
+.content{
+    font-size: 28px;
+    font-weight: 800;
+}
+.divider{
+    height: 16px;
+    width: 444px;
+    background-image: url('../images/pattern-divider-desktop.svg');
+    background-repeat: no-repeat;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+
+.title{
+    color: hsl(150, 100%, 66%);
+    text-transform: uppercase;
+    font-weight: 400;
+}
+
+a:hover{
+    background-color: #53ffaa;
+    box-shadow: 2px 2px 6px #53ffab, -2px -2px 6px #53ffab;
+}
+
+
+@media (max-width:576px){
+    .container{
+    position: relative;
+    margin: 100px auto;
+    width: 375px;
+    height: 300px;
+    }
+    #divider{
+        background-image: url('../images/pattern-divider-mobile.svg');
+        height:16px;
+        width:295px;
+        margin:0 auto;
+        background-repeat: no-repeat;
+    }
+}
