@@ -18,10 +18,13 @@ Users should be able to:
    - See hover states for all interactive elements on the page
    - Generate a new piece of advice by clicking the dice icon
    
-### Screenshot
-
-![active-state](https://user-images.githubusercontent.com/72602331/156864269-193b7626-b93b-4597-a394-7addf9670bbb.png)
+### Desktop Preview
 ![desktop-preview](https://user-images.githubusercontent.com/72602331/156864297-666e7ced-d871-4a32-a0bb-064f89ae18c2.png)
+
+### Active State Preview
+![active-state](https://user-images.githubusercontent.com/72602331/156864269-193b7626-b93b-4597-a394-7addf9670bbb.png)
+
+### Mobile Preview
 ![mobile-preview](https://user-images.githubusercontent.com/72602331/156864302-a0d3551f-ca24-4183-b609-6d58d532e544.png)
 
 
