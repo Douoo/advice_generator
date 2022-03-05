@@ -17,7 +17,6 @@ Users should be able to:
    - View the optimal layout for the app depending on their device's screen size
    - See hover states for all interactive elements on the page
    - Generate a new piece of advice by clicking the dice icon
-   
 ### Screenshot
 
 ![](preview/active-state.jpg)
@@ -46,6 +45,11 @@ I'm a bit beginner on the web development as its not my main developer-skill but
 
 
 I'll keep on trying making simple and fun web apps now then 
+
+### Useful resources
+
+- [MDN Developer Mozilla](https://www.example.com) - This helped me for XYZ reason. I really liked this pattern and will use it going forward.
+- [Example resource 2](https://www.example.com) - This is an amazing article which helped me finally understand XYZ. I'd recommend it to anyone still learning this concept.
 
 
 ## Author
