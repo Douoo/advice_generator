@@ -28,8 +28,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://douoo.github.io/advice_generator/)
-- If you want to check on the site, [click here](https://douoo.github.io/advice_generator/)
+- If you want to check on the site, [Web preview](https://douoo.github.io/advice_generator/)
+- Solution URL: [Solution URL - Git link](https://github.com/Douoo/advice_generator)
 
 ## My process
 
