@@ -20,15 +20,16 @@ Users should be able to:
    
 ### Screenshot
 
-![](preview/active-state.jpg)
-![](preview/screenshot-desktop.jpg)
-![](preview/screenshot-mobile.jpg)
+![active-state](https://user-images.githubusercontent.com/72602331/156864269-193b7626-b93b-4597-a394-7addf9670bbb.png)
+![desktop-preview](https://user-images.githubusercontent.com/72602331/156864297-666e7ced-d871-4a32-a0bb-064f89ae18c2.png)
+![mobile-preview](https://user-images.githubusercontent.com/72602331/156864302-a0d3551f-ca24-4183-b609-6d58d532e544.png)
+
 
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Add solution URL here](https://douoo.github.io/advice_generator/)
+- If you want to check on the site, [click here](https://douoo.github.io/advice_generator/)
 
 ## My process
 
@@ -50,8 +51,6 @@ I'll keep on trying making simple and fun web apps now then
 
 ## Author
 
-- Website - [Add your name here](https://www.your-site.com)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
-- Twitter - [@yourusername](https://www.twitter.com/yourusername)
+- Frontend Mentor - [@Douoo](https://www.frontendmentor.io/profile/Douoo)
 
 
